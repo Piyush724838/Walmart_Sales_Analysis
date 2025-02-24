@@ -40,6 +40,7 @@ This project provides an in-depth analysis of a Walmart sales dataset using **Po
 - Pie chart (Sales distribution by category).
 
 ---
+![Screenshot 2025-02-24 215901](https://github.com/user-attachments/assets/29129612-aada-4021-90e4-daca8c68875f)
 
 ### 2️⃣ **Branch & City Performance Dashboard**
 
